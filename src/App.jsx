@@ -14,7 +14,7 @@ const App = () => {
     {
       img: 'https://media.istockphoto.com/id/1369746033/photo/portrait-of-a-handsome-young-businessman-working-in-office.jpg?s=1024x1024&w=is&k=20&c=tlTA4SvOrjz9psmv6-0RtA8sC9pmkZdm0KkxK6o8qJo=',
       intro: '',
-      color:'green',
+      color:'darkgreen',
       tag: 'Underserved'
     },
     {
